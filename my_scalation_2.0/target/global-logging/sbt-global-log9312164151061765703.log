@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(;Test/compile; collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(Test/compile, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / compile[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"4","parents":[]},"eventTime":1643743244457,"message":"Compiling my_scalation","dataKind":"compile-task","data":{"target":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Compile"}}})[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /Users/sdk/Desktop/my_scalation_2.0/target/scala-3.1.0/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"compiling 1 Scala source to /Users/sdk/Desktop/my_scalation_2.0/target/scala-3.1.0/classes ..."})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/SampleStats.scala"},"buildTarget":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/ConfidenceIntervalTest.scala"},"buildTarget":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/Ex_Bank.scala"},"buildTarget":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/lin_reg.scala"},"buildTarget":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/DiceTest.scala"},"buildTarget":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"4","parents":[]},"eventTime":1643743246254,"message":"Compiled my_scalation","status":1,"dataKind":"compile-report","data":{"target":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Compile"},"errors":0,"warnings":0,"time":1797}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"5","parents":[]},"eventTime":1643743246290,"message":"Compiling my_scalation-test","dataKind":"compile-task","data":{"target":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Test"}}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"5","parents":[]},"eventTime":1643743246293,"message":"Compiled my_scalation-test","status":1,"dataKind":"compile-report","data":{"target":{"uri":"file:/Users/sdk/Desktop/my_scalation_2.0/#my_scalation/Test"},"errors":0,"warnings":0,"time":3}})[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 2 s, completed Feb 1, 2022, 2:20:46 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / collectAnalyses[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0manalysis location (/Users/sdk/Desktop/my_scalation_2.0/target/scala-3.1.0/zinc/inc_compile_3.zip,true)[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed Feb 1, 2022, 2:20:46 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled request received: shutdown: JsonRpcRequestMessage(2.0, ♨1, shutdown, null})[0m

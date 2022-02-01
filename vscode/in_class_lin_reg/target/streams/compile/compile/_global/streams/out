@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /Users/sdk/Desktop/scala/vscode/in_class_lin_reg/src/main/scala/my_scalation/lin_reg1.scala:20:19 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m        sse(i) = e dot e[0m
+[0m[[0m[31merror[0m] [0m[0m   |                 [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                 value dot is not a member of Char[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/sdk/Desktop/scala/vscode/in_class_lin_reg/src/main/scala/my_scalation/lin_reg2.scala:20:18 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m    [33mval[0m [36mmod[0m = [33mnew[0m [35mSimplerRegression[0m (x, y) [34m// create a simpler regression model[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                  [31m^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                  Not found: type SimplerRegression[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

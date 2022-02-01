@@ -1,0 +1,24 @@
+2022.01.19 21:13:05 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/sdk/Desktop/scala/vscode/.metals/lsp.trace.json or /Users/sdk/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.01.19 21:13:06 INFO  logging to file /Users/sdk/Desktop/scala/vscode/.metals/metals.log
+2022.01.19 21:13:06 INFO  Started: Metals version 0.11.1 in workspace '/Users/sdk/Desktop/scala/vscode' for client Visual Studio Code 1.63.2.
+2022.01.19 21:13:06 INFO  Parse release: 17
+2022.01.19 21:13:12 INFO  time: initialize in 5.96s
+2022.01.19 21:13:12 WARN  Build server is not auto-connectable.
+2022.01.19 21:13:12 WARN  no build tool detected in workspace '/Users/sdk/Desktop/scala/vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.01.19 21:14:51 INFO  
+2022.01.19 21:14:51 INFO  Template applied in /Users/sdk/Desktop/scala/./vstest
+2022.01.19 21:14:51 INFO  
+2022.01.19 21:14:51 INFO  time: ran 'giter8.Giter8' in 5.87s
+2022.01.19 21:14:56 INFO  shutting down Metals
+2022.01.31 16:57:10 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/sdk/Desktop/scala/vscode/.metals/lsp.trace.json or /Users/sdk/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.01.31 16:57:11 INFO  logging to file /Users/sdk/Desktop/scala/vscode/.metals/metals.log
+2022.01.31 16:57:11 INFO  Started: Metals version 0.11.1 in workspace '/Users/sdk/Desktop/scala/vscode' for client Visual Studio Code 1.63.2.
+2022.01.31 16:57:11 INFO  Parse release: 17
+2022.01.31 16:57:16 INFO  time: initialize in 4.98s
+2022.01.31 16:57:16 WARN  Build server is not auto-connectable.
+2022.01.31 16:57:16 WARN  no build tool detected in workspace '/Users/sdk/Desktop/scala/vscode'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.01.31 16:57:43 INFO  
+2022.01.31 16:57:43 INFO  Template applied in /Users/sdk/Desktop/scala/vscode/./hw3_ex14
+2022.01.31 16:57:43 INFO  
+2022.01.31 16:57:43 INFO  time: ran 'giter8.Giter8' in 2.69s
+2022.01.31 16:57:46 INFO  shutting down Metals

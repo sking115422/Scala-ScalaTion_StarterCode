@@ -1,0 +1,26 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(collectAnalyses, None, Some(CommandSource(network-1)))[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Processing event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: initialized: JsonRpcNotificationMessage(2.0, initialized, {})[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: textDocument/didOpen: JsonRpcNotificationMessage(2.0, textDocument/didOpen, {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/DiceTest.scala","languageId":"scala","version":1,"text":"\npackage my_scalation\n\nimport scalation.mathstat._\nimport scalation.random.Randi\n\n// > runMain my_scalation.DiceTest\n\nobject DiceTest extends App:\n\n    val dice = Randi (1, 6)\n    val x    = VectorD.range (0, 13)\n    val freq = new VectorD (13)\n    for i <- 0 until 10000 do\n        val sum = dice.igen + dice.igen\n        freq(sum) += 1\n    end for\n    new Plot (x, freq)\n\nend DiceTest \n\n"}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / collectAnalyses[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: textDocument/didOpen: JsonRpcNotificationMessage(2.0, textDocument/didOpen, {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/ConfidenceIntervalTest.scala","languageId":"scala","version":1,"text":"\npackage my_scalation\n\nimport scala.math.sqrt\n\nimport scalation._\nimport scalation.mathstat._\nimport scalation.random._\n\n// > runMain my_scalation.ConfidenceIntervalTest\n\nobject ConfidenceIntervalTest extends App:\n\n    val (mu, sig) = (70.0, 8.0)                               // population mean and standard deviation\n    val m   = 100                                             // sample size\n    val rm  = sqrt (m)\n    val rvg = Normal (mu, sig * sig)                          // Normal random variate generator\n    var count_z, count_t = 0\n\n    for it <- 1 to 100 do                                     // test several datasets\n        val y = VectorD (for i <- 0 until m yield rvg.gen)    // sample from Normal distribution\n        val (mu_, sig_) = (y.mean, y.stdev)                   // sample mean and standard deviation\n\n        val ihw_z = z_sigma (sig_) / rm                       // interval half width: z-distribution\n        val ci_z  = (mu_ - ihw_z, mu_ + ihw_z)                // z-confidence interval\n        println (s\"mu = $mu in ci_z = $ci_z?\")\n        if mu in ci_z then count_z += 1\n\n        val ihw_t = t_sigma (sig_, m-1) / rm                  // interval half width: t-distribution\n        val ci_t  = (mu_ - ihw_t, mu_ + ihw_t)                // z-confidence interval\n        println (s\"mu = $mu in ci_t = $ci_t?\")\n        if mu in ci_t then count_t += 1\n    end for\n\n    println (s\"mu inside $count_z % z-confidence intervals\")\n    println (s\"mu inside $count_t % t-confidence intervals\")\n\nend ConfidenceIntervalTest\n\n"}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0manalysis location (/Users/sdk/Desktop/my_scalation_2.0/target/scala-3.1.0/zinc/inc_compile_3.zip,true)[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 0 s, completed Jan 31, 2022, 6:08:34 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0munmatched Done event for requestId None: None[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition json request: {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/ConfidenceIntervalTest.scala"},"position":{"line":11,"character":0}}[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition found line: object ConfidenceIntervalTest extends App:[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: $/cancelRequest: JsonRpcNotificationMessage(2.0, $/cancelRequest, {"id":1})[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition json request: {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/ConfidenceIntervalTest.scala"},"position":{"line":11,"character":0}}[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition found line: object ConfidenceIntervalTest extends App:[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled notification received: $/cancelRequest: JsonRpcNotificationMessage(2.0, $/cancelRequest, {"id":2})[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition json request: {"textDocument":{"uri":"file:///Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/ConfidenceIntervalTest.scala"},"position":{"line":11,"character":0}}[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition found line: object ConfidenceIntervalTest extends App:[0m
+[0m[[0m[0mdebug[0m] [0m[0msymbol objec[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition locations Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0msymbol objec[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition locations Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0msymbol objec[0m
+[0m[[0m[0mdebug[0m] [0m[0mlsp-definition locations Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled request received: shutdown: JsonRpcRequestMessage(2.0, ♨4, shutdown, null})[0m

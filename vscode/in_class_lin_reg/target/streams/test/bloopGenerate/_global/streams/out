@@ -1,0 +1,4 @@
+[debug] [my_scalation-test] Classpath dependencies List()
+[debug] [my_scalation-test] Dependencies from configurations List(my_scalation)
+[debug] Bloop wrote the configuration of project 'my_scalation-test' to '/Users/sdk/Desktop/scala/vscode/in_class_lin_reg/.bloop/my_scalation-test.json'
+[success] Generated .bloop/my_scalation-test.json

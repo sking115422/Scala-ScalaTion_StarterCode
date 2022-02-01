@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/sdk/Desktop/scala/vscode/hw3_ex14/src/main/scala/hw3/ci.scala:88:2 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m88 |[0m  tests = [31m1[0m to [31m100[0m by [31m1[0m toList[0m
+[0m[[0m[31merror[0m] [0m[0m   |  [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |  Not found: tests[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/sdk/Desktop/scala/vscode/hw3_ex14/src/main/scala/hw3/ci.scala:98:15 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m98 |[0m  [33mfor[0m (test <- tests) confidenceIntervalTest(test)[0m
+[0m[[0m[31merror[0m] [0m[0m   |               [31m^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |               Not found: tests[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

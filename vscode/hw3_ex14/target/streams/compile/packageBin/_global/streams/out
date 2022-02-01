@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/sdk/Desktop/scala/vscode/hw3_ex14/target/scala-3.1.0/hw3_ex14_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sdk/Desktop/scala/vscode/hw3_ex14/target/scala-3.1.0/classes/hw3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw3/testCI.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sdk/Desktop/scala/vscode/hw3_ex14/target/scala-3.1.0/classes/hw3/testCI.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw3/ci$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sdk/Desktop/scala/vscode/hw3_ex14/target/scala-3.1.0/classes/hw3/ci$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw3/testCI$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sdk/Desktop/scala/vscode/hw3_ex14/target/scala-3.1.0/classes/hw3/testCI$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw3/testCI.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sdk/Desktop/scala/vscode/hw3_ex14/target/scala-3.1.0/classes/hw3/testCI.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw3/ci$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sdk/Desktop/scala/vscode/hw3_ex14/target/scala-3.1.0/classes/hw3/ci$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hw3/ci$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/sdk/Desktop/scala/vscode/hw3_ex14/target/scala-3.1.0/classes/hw3/ci$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

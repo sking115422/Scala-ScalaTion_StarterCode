@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /Users/sdk/Desktop/scala/vscode/hw3_ex14/src/test/scala/Test1.scala:6:50 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m6 |[0m    assertEquals([31m"I was compiled by Scala 3. :)"[0m, msg)[0m
+[0m[[0m[31merror[0m] [0m[0m  |                                                  [31m^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |                                                  Not found: msg[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,389 @@
+1637865518433:compile
+1637865548560:doc
+1637865647790:exit
+1637865705990:clean
+1637865714701:compile
+1637865748812:doc
+1637865884762:compile
+1637865924362:doc
+1637866069992:clean
+1637866073144:compile
+1637866091167:doc
+1637868847835:clean
+1637868855379:compile
+1637868966202:runMain scalation.GenIndexHtml
+1637868982186:package
+1637868987769:doc
+1637869003465:cd ..
+1637869004393:ls
+1637875136404:exit
+1637875240764:clean
+1637875244451:compile
+1637875333819:runMain scalation.simulation.agent.example_1.runTraffic
+1637905586635:runMain scalation.scala2d.PolygonTest
+1637979395111:compile
+1638066980924:runMain scalation.scala2d.PolygonTest
+1638067217385:compile
+1638068096019:runMain scalation.scala2d.PolygonTest
+1638070082638:[A
+1638070086727:runMain scalation.scala2d.PolygonTest
+1638072508741:runMain scalation.scala2d.polygonTest2
+1638072614292:compile
+1638072679212:runMain scalation.scala2d.polygonTest2
+1638076950693:runMain scalation.scala2d.polygonTest
+1638077337955:runMain scalation.scala2d.polygonTest2
+1638077460322:runMain scalation.scala2d.polygonTest
+1638079477211:runMain scalation.scala2d.polygonTest2
+1638079623474:runMain scalation.scala2d.PolygonTest2
+1638079647130:runMain scalation.scala2d.polygonTest2
+1638080224566:runMain scalation.scala2d.polygonTest
+1638080351325:runMain scalation.scala2d.polygonTest2
+1638080589819:runMain scalation.scala2d.polygonTest
+1638080753450:runMain scalation.scala2d.polygonTest2
+1638082672540:runMain scalation.scala2d.polygonTest
+1638083049801:clean
+1638083053169:compile
+1638083069633:exit
+1638137641801:compile
+1638138696768:runMain scalation.simulation.process.example_1.runTrafficTurn
+1638138731936:runMain scalation.simulation.process.example_1.runTraffic
+1638139131637:runMain scalation.simulation.process.example_1.runTrafficTurn
+1638140682986:runMain scalation.simulation.process.example_1.runTraffic
+1638202654897:run
+1638202702992:261
+1638202707040:run
+1638219349282:exit
+1638219762049:compile
+1638220031087:runMain scalation.simulation.agent.example_1.runTraffic
+1638220693573:compile
+1638220773781:runMain scalation.simulation.agent.example_1.runTraffic
+1638222220020:compile
+1638228409549:clean
+1638228418341:compile
+1638228439077:runMain scalation.simulation.agent.example_1.runTraffic
+1638229674724:compile
+1638229796451:runMain scalation.simulation.agent.example_1.runTraffic
+1638248821019:runMain scalation.simulation.agent.example_1.runTraffic2L
+1638249924931:compile
+1638297579328:runMain scalation.simulation.agent.example_1.runTraffic2L
+1638298951254:compile
+1638299021237:runMain scalation.simulation.agent.example_1.runTraffic2L
+1638301786189:runMain scalation.scala2d.polygonTest2
+1638303684651:[A
+1638303687776:runMain scalation.scala2d.polygonTest2
+1638305067271:runMain scalation.simulation.agent.example_1.runTraffic2L
+1638329916601:runMain scalation.scala2d.PolygonTest
+1638329927761:runMain scalation.simulation.agent.example_1.runTraffic2L
+1638330530511:runMain scalation.simulation.agent.example_1.runTraffic2L1
+1638332495785:clean
+1638332499065:compile
+1638332543920:exit
+1638673462745:compile
+1638673504330:runMain scalation.simulation.agent.example_1.runTraffic2L1
+1638733878476:[A
+1638733882147:runMain scalation.simulation.agent.example_1.runTraffic2L1
+1638735741826:[A
+1638735746178:runMain scalation.simulation.agent.example_1.runTraffic2L1
+1638739840775:[A
+1638739845758:runMain scalation.simulation.agent.example_1.runTraffic2L1
+1638743516251:compile
+1638745740467:runMain scalation.simulation.agent.example_1.runTraffic2L1
+1638746148768:clean
+1638746158064:compile
+1638747511743:runMain scalation.simulation.agent.example_1.runTraffic2L1
+1638749019532:compile
+1638749240683:runMain scalation.simulation.agent.example_1.runUGABusRoutes1
+1638750698701:[A
+1638750701576:runMain scalation.simulation.agent.example_1.runUGABusRoutes1
+1638750945542:[A
+1638750948214:runMain scalation.simulation.agent.example_1.runUGABusRoutes1
+1638751200436:clean
+1638751203836:compile
+1638751295915:exit
+1638852360060:compile
+1638854273765:runMain scalation.random.variateTest
+1638916192269:compile
+1638916311100:runMain scalation.random.variateTest
+1638919080904:runMain scalation.random.cLTTest
+1638920371815:runMain scalation.random.variateTest
+1638921092954:runMain scalation.random.cLTTest
+1638921417191:runMain scalation.random.variateTest
+1638925182651:compile
+1639003438444:exit
+1639022370087:runMain scalation.simulation.monte_carlo.sphereVolumeTest
+1639108269841:compile
+1639185646766:runMain scalation.database.relation.relationTest
+1639186066419:runMain scalation.database.relation.relationTest2
+1639186297561:runMain scalation.database.relation.relationTest3
+1639186316689:runMain scalation.database.relation.relationTest4
+1639189303385:runMain scalation.database.relation.relationTest5
+1639258434210:runMain scalation.database.relation.relationTest6
+1639258982376:runMain scalation.database.relation.relationTest7
+1639258992104:runMain scalation.database.relation.relationTest8
+1639259001239:runMain scalation.database.relation.relationTest9
+1639259012311:runMain scalation.database.relation.relationTest10
+1639261177002:runMain scalation.database.relation.relationTest11
+1639261641702:runMain scalation.database.relation.relationTest12
+1639262763851:runMain scalation.database.relation.relationTest8
+1639264211968:runMain scalation.database.relation.relationTest
+1639264229320:runMain scalation.database.relation.relationTest2
+1639268407867:compile
+1639268911671:runMain scalation/database.relation.showTables
+1639269582314:runMain scalation.database.relation.relationTest
+1639331728633:compile
+1639337976719:runMain scalation.database.relation.relationTest
+1639339296973:compile
+1639339351140:runMain scalation.database.relation.relationTest
+1639340856729:compile
+1639340946473:runMain scalation.database.relation.relationTest
+1639341244918:runMain scalation.database.relation.relationTest2
+1639341477237:runMain scalation.database.relation.relationTest
+1639343281735:runMain scalation.database.relation.relationTest2
+1639344885684:compile
+1639345293969:runMain scalation.database.relation.relationTest
+1639346758318:runMain scalation.database.relation.relationTest6
+1639347417785:runMain scalation.database.relation.relationTest
+1639357160930:runMain scalation.database.relation.relationTest6
+1639358353746:runMain scalation.database.relation.relationTest
+1639359408450:runMain scalation.database.relation.relationTest2
+1639371806191:runMain scalation.database.relation.relationTest
+1639371984278:runMain scalation.database.relation.relationTest2
+1639373357868:runMain scalation.database.relation.relationTest
+1639416654860:clean
+1639416663796:compile
+1639430369593:runMain scalation.simulation.montecarlo.monteCarloSphere
+1639431308962:runMain scalation.simulation.montecarlo.calculateVolume
+1639437178986:runMain scalation.simulation.queueingnet.mMc_QueueTest
+1639449009804:runMain scalation.simulation.queueingnet.mM2_QueueTest
+1639451639182:runMain scalation.simulation.queueingnet.mM_QueueTest
+1639454332858:runMain scalation.simulation.queueingnet.mMc_QueueTest
+1639455330961:compile
+1639455485976:runMain scalation.simulation.queueingnet.mM_QueueTest
+1639504977962:compile
+1639505434949:runMain scalation.simulation.queueingnet.mMc_QueueTest
+1639505520237:runMain scalation.simulation.queueingnet.mMck_QueueTest
+1639506042705:runMain scalation.simulation.queueingnet.mM2_QueueTest
+1639506063489:runMain scalation.simulation.queueingnet.mM_QueueTest
+1639506497829:runMain scalation.simulation.queueingnet.mMck_QueueTest
+1639508626757:runMain scalation.simulation.queueingnet.mM_QueueTest
+1639509524919:runMain scalation.simulation.queueingnet.mMck_QueueTest
+1639510716926:runMain scalation.simulation.queueingnet.mM_QueueTest
+1639525618411:runMain scalation.simulation.process.example_1.runBank
+1639537449249:runMain scalation.simulation.process.example_MIR.runBank
+1639538356168:runMain scalation.simulation.process.example_MBM.runBank
+1639540137907:runMain scalation.simulation.process.example_MIR.runBank
+1639608062566:runMain scalation.simulation.agent.example_1.runUGABusRoutes
+1639622656798:compile
+1639801108621:runMain scalation.database.relation.relationTest6
+1639804628942:compile
+1639961945449:clean
+1639961952155:compile
+1640041900248:runMain scalation.mathstat.vectorSTest2
+1640056037036:compile
+1640113557560:runMain scalation.modeling.variableTest
+1640116104777:compile
+1640121059622:runMain scalation.modeling.regressionCatTest
+1640127955915:compile
+1640148885638:clean
+1640148889854:compile'
+1640148894390:clean
+1640148898334:compile
+1640200513518:runMain scalation.modeling.symbolicRegressionTest
+1640200898380:[A
+1640200903588:runMain scalation.modeling.symbolicRegressionTest
+1640203082899:[Acompile
+1640203090123:compile
+1640203133299:runMain scalation.modeling.symbolicRegressionTest2
+1640280186367:runMain scalation.modeling.symbolicRegressionTest3
+1640280260159:runMain scalation.modeling.symbolicRegressionTest4
+1640280273663:runMain scalation.modeling.symbolicRegressionTest5
+1640280325758:runMain scalation.modeling.symbolicRegressionTest4
+1640281156384:compile
+1640282099113:runMain scalation.modeling.symbolicRegressionTest2
+1640282609573:compile
+1640283058146:runMain scalation.modeling.symbolicRegressionTest2
+1640283080297:runMain scalation.modeling.symbolicRegressionTest3
+1640283249744:runMain scalation.modeling.symbolicRegressionTest4
+1640283328751:runMain scalation.modeling.symbolicRegressionTest5
+1640283403783:runMain scalation.modeling.symbolicRegressionTest
+1640283903915:[A
+1640283908011:runMain scalation.modeling.symbolicRegressionTest
+1640284089443:[A
+1640284092129:runMain scalation.modeling.symbolicRegressionTest
+1640284540142:runMain scalation.modeling.symbolicRegressionTest5
+1640368817982:runMain scalation.modeling.regressionTest5
+1640369068133:runMain scalation.modeling.symbolicRegressionTest5
+1640369229234:runMain scalation.modeling.symbolicRegressionTest2
+1640401787074:runMain scalation.modeling.symbolicRegressionTest3
+1640401853110:runMain scalation.modeling.symbolicRegressionTest4
+1640402037629:runMain scalation.modeling.symbolicRegressionTest5
+1640410018234:compile
+1640410233025:runMain scalation.modeling.symbolicRegressionTest5
+1640410288944:runMain scalation.modeling.symbolicRegressionTest4
+1640411128692:runMain scalation.modeling.symbolicRegressionTest5
+1640411146220:runMain scalation.modeling.symbolicRegressionTest
+1640456246358:runMain scalation.modeling.symbolicRegressionTest2
+1640456274990:runMain scalation.modeling.symbolicRegressionTest3
+1640456319542:runMain scalation.modeling.symbolicRegressionTest4
+1640456370309:runMain scalation.modeling.symbolicRegressionTest5
+1640465077718:compile
+1640465387484:runMain scalation.modeling.symRidgeRegressionTest2
+1640466987299:runMain scalation.modeling.ridgeRegressionTest5
+1640468813277:runMain scalation.modeling.example_AutoMPG_SimplerRegression
+1640469000739:run
+1640469069835:runMain scalation.modeling.example_AutoMPG_Correlation
+1640469191857:compile
+1640469386976:runMain scalation.modeling.example_AutoMPG_NullModel
+1640469430472:runMain scalation.modeling.example_AutoMPG_SimplerRegression
+1640469607511:runMain scalation.modeling.example_AutoMPG_SimpleRegression
+1640469807581:runMain scalation.modeling.example_AutoMPG_Regression
+1640470994148:runMain scalation.modeling.regressionTest3
+1640473378739:runMain scalation.modeling.example_AutoMPG_Regression
+1640473590810:runMain scalation.modeling.ridgeRegressionTest5
+1640475106103:compile
+1640475583580:runMain scalation.modeling.regressionTest5
+1640475809794:runMain scalation.modeling.ridgeRegressionTest5
+1640549913035:runMain scalation.modeling.regressionTest5
+1640558863899:runMain scalation.modeling.example_AutoMPG_Correlation
+1640559512036:[A
+1640559516158:runMain scalation.modeling.example_AutoMPG_Correlation
+1640560225442:runMain scalation.modeling.regressionTest3
+1640560543983:runMain scalation.modeling.regressionTest4
+1640560872845:runMain scalation.modeling.regressionTest5
+1640562130348:runMain scalation.modeling.ridgeRegressionTest5
+1640575981205:runMain scalation.modeling.RegressionTest5
+1640575990005:runMain scalation.modeling.regressionTest5
+1640578678443:runMain scalation.modeling.symbolicRegressionTest2
+1640628734184:runMain scalation.modeling.symbolicRegressionTest3
+1640628813072:runMain scalation.modeling.symbolicRegressionTest2
+1640629101605:runMain scalation.modeling.symbolicRegressionTest3
+1640631888734:runMain scalation.modeling.symbolicRegressionTest4
+1640632268923:runMain scalation.modeling.symbolicRegressionTest5
+1640632498905:runMain scalation.modeling.symbolicRegressionTest
+1640633245061:runMain scalation.modeling.ridgeRegressionTest5
+1640633576915:runMain scalation.modeling.symRidgeRegressionTest2
+1640651259526:compile
+1640717991364:runMain scalation.modeling.regressionTest3
+1640718174122:compile
+1640747437953:runMain scalation.modeling.example_AutoMPG_SimplerRegression
+1640748462876:runMain scalation.modeling.example_AutoMPG_SimpleRegression
+1640748642491:runMain scalation.modeling.example_AutoMPG_SimplerRegression
+1640748707794:runMain scalation.modeling.example_AutoMPG_Regression
+1640750957797:compile
+1640809563624:clean
+1640809566576:compile
+1640825840782:clean
+1640825843758:compile
+1640828471859:exit
+1640830147663:version
+1640830154838:exit
+1640830938623:compile
+1640831065813:clean
+1640831074069:compile
+1640831103629:exit
+1640895071031:compile
+1640895489459:runMain scalation.modeling.predictorTest
+1640917285812:runMain scalation.modeling.example_AutoMPG_Correlation
+1640918012471:runMain scalation.modeling.predictorTest
+1640918616970:[A
+1640918627154:runMain scalation.modeling.symbolicRegressionTest
+1640918639026:runMain scalation.modeling.predictorTest
+1640919692754:runMain scalation.modeling.example_AutoMPG_Correlation
+1640919964016:runMain scalation.modeling.predictorTest
+1641061845864:runMain scalation.modeling.tranRegressionTest7
+1641065780809:compile
+1641066496380:runMain scalation.modeling.tranRegressionTest7
+1641070347177:runMain scalation.modeling.predictorTest
+1641072192276:runMain scalation.modeling.example_AutoMPG_Correlation
+1641072522329:runMain scalation.modeling.predictorTest
+1641072632794:[A
+1641072635520:runMain scalation.modeling.predictorTest
+1641075700130:runMain scalation.modeling.tranRegressionTest7
+1641077520294:runMain scalation.modeling.predictorTest
+1641079486232:runMain scalation.modeling.tranRegressionTest7
+1641080903570:[A
+1641080921430:runMain scalation.modeling.tranRegressionTest7
+1641149673831:[A
+1641149690119:runMain scalation.modeling.tranRegressionTest7
+1641151449234:runMain scalation.modeling.regressionTest3
+1641152000606:runMain scalation.modeling.tranRegressionTest7
+1641152226340:runMain scalation.modeling.predictorTest
+1641152645169:runMain scalation.modeling.tranRegressionTest7
+1641158533055:compile
+1641159088700:runMain scalation.modeling.regressionTest3
+1641159172763:runMain scalation.modeling.tranRegressionTest7
+1641159664175:runMain scalation.modeling.regressionTest3
+1641160104644:runMain scalation.modeling.tranRegressionTest7
+1641160324331:runMain scalation.modeling.predictorTest
+1641161708120:runMain scalation.modeling.tranRegressionTest7
+1641161920479:runMain scalation.modeling.predictorTest
+1641166799028:runMain scalation.modeling.regressionWLSTest2
+1641168836645:runMain scalation.modeling.regressionTest3
+1641169004076:runMain scalation.modeling.regressionWLSTest2
+1641179530221:compile
+1641179701508:runMain scalation.modeling.regressionWLSTest2
+1641179886923:runMain scalation.modeling.regressionTest3
+1641179975274:runMain scalation.modeling.regressionWLSTest2
+1641180742006:runMain scalation.modeling.regressionTest3
+1641180935396:runMain scalation.modeling.regressionWLSTest2
+1641181877525:runMain scalation.modeling.regressionTest3
+1641181975020:runMain scalation.modeling.regressionWLSTest2
+1641182495641:runMain scalation.modeling.regressionWLSTest
+1641182681903:runMain scalation.modeling.predictorTest
+1641232275322:compile
+1641234647877:runMain scalation.modeling.predictorTest
+1641236840147:'
+1641236850451:runMain scalation.modeling.predictorTest
+1641237842242:clean
+1641237851362:compile
+1641237877090:exit
+1641351336099:compile
+1641355644938:runMain scalation.modeling.symbolicRegressionTest2
+1641355704194:runMain scalation.modeling.symbolicRegressionTest3
+1641355742393:runMain scalation.modeling.symbolicRegressionTest4
+1641355764049:runMain scalation.modeling.symbolicRegressionTest5
+1641355792713:runMain scalation.modeling.symbolicRegressionTest6
+1641356426380:runMain scalation.modeling.symbolicRegressionTest
+1641403820106:runMain scalation.runCalc
+1641404240543:runMain scalation.runCalc 100
+1641404304758:runMain scalation.runCalc
+1641404344966:runMain scalation.runCalc 100
+1641405994010:runMain scalation.runCalcHelp
+1641406212289:runMain scalation.runCalc 100
+1641439265413:compile
+1641439279909:runMain scalation.modeling.symbolicRegressionTest7
+1641439494540:runMain scalation.modeling.symbolicRegressionTest
+1641442629981:runMain scalation.modeling.symRidgeRegressionTest
+1641443064106:runMain scalation.modeling.symbolicRegressionTest
+1641443449103:runMain scalation.modeling.symRidgeRegressionTest
+1641443518231:runMain scalation.modeling.symbolicRegressionTest
+1641444297097:compile
+1641445302594:runMain scalation.modeling.regressionCatTest4
+1641446583009:compile
+1641446759848:runMain scalation.modeling.regressionCatTest5
+1641447169597:runMain scalation.modeling.predictorTest
+1641490744696:runMain scalation.modeling.regressionTreeTest2
+1641491455977:[A
+1641491458651:runMain scalation.modeling.regressionTreeTest2
+1641497682997:runMain scalation.modeling.predictorTest
+1641502213141:exit
+1641507665007:compile
+1641508354969:runMain scalation/database.relation.showTables
+1641606074968:exit
+1641609102369:compile
+1641610158041:runMain scalation/database.relation.showTables
+1641613500977:exit
+1641772694570:runMain scalation/database.relation.showTables
+1642212938741:runMain scalation.simulation.monte_carlo.runPoker
+1642284204902:runMain scalation.simulation.monte_carlo.cardsTest
+1642285564236:runMain scalation.simulation.monte_carlo.cardsTest2
+1642363643008:runMain scalation.simulation.monte_carlo.cardsTest
+1642365888879:runMain scalation.simulation.monte_carlo.cardsTest2
+1642369463549:runMain scalation.simulation.monte_carlo.cardsTest3
+1642375403850:clean
+1642375412866:compile
+1642566564814:runMain scalation.calculus.differentialTest
+1642567355442:runMain scalation.calculus.differentialTest2
+1642567380554:clean
+1642567384074:compile
+1642567401490:exit

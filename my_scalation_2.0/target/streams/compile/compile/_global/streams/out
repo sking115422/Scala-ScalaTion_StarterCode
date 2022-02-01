@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E134] Type Error: /Users/sdk/Desktop/my_scalation_2.0/src/main/scala/my_scalation/lin_reg.scala:20:21 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m        [33mval[0m [36me[0m = x0 * b0(i/[31m25.0[0m)[0m
+[0m[[0m[31merror[0m] [0m[0m   |                     [31m^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |None of the overloaded alternatives of [33mmethod[0m [35mapply[0m in [33mclass[0m [35mVectorD[0m with types[0m
+[0m[[0m[31merror[0m] [0m[0m   | (idx: scala.collection.mutable.IndexedSeq[Int]): scalation.mathstat.VectorD[0m
+[0m[[0m[31merror[0m] [0m[0m   | (r: Range): scalation.mathstat.VectorD[0m
+[0m[[0m[31merror[0m] [0m[0m   | (i: Int): Double[0m
+[0m[[0m[31merror[0m] [0m[0m   |match arguments (Double)[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

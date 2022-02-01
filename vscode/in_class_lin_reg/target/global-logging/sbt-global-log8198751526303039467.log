@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(fc9671f2-93c5-4ecd-8806-f5b22c9e06d6), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskStart, {"taskId":{"id":"6","parents":[]},"eventTime":1643743158617,"message":"Compiling my_scalation","dataKind":"compile-task","data":{"target":{"uri":"file:/Users/sdk/Desktop/scala/vscode/in_class_lin_reg/#my_scalation/Compile"}}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/publishDiagnostics, {"textDocument":{"uri":"file:///Users/sdk/Desktop/scala/vscode/in_class_lin_reg/src/main/scala/my_scalation/linReg1.scala"},"buildTarget":{"uri":"file:/Users/sdk/Desktop/scala/vscode/in_class_lin_reg/#my_scalation/Compile"},"diagnostics":[],"reset":true})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/taskFinish, {"taskId":{"id":"6","parents":[]},"eventTime":1643743158621,"message":"Compiled my_scalation","status":1,"dataKind":"compile-report","data":{"target":{"uri":"file:/Users/sdk/Desktop/scala/vscode/in_class_lin_reg/#my_scalation/Compile"},"errors":0,"warnings":0,"time":4}})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"running (fork) my_scalation.linReg1 "})[0m
+[0m[[0m[0mdebug[0m] [0m[0mjsonRpcNotify: JsonRpcNotificationMessage(2.0, build/logMessage, {"type":3,"message":"Run + title"})[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 3 s, completed Feb 1, 2022, 2:19:21 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mUnhandled request received: shutdown: JsonRpcRequestMessage(2.0, ♨1, shutdown, null})[0m

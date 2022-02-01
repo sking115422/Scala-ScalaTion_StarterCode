@@ -1,0 +1,1 @@
+{"name":"sbt","version":"1.6.1","bspVersion":"2.0.0-M5","languages":["scala"],"argv":["/Users/nancymiller/jam/software/java/jdk-16.jdk/Contents/Home/bin/java","-Xms100m","-Xmx100m","-classpath","/Users/nancymiller/jam/software/sbt/sbt/bin/sbt-launch.jar","-Dsbt.script=/Users/nancymiller/jam/software/sbt/sbt/bin/sbt","xsbt.boot.Boot","-bsp"]}
